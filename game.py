@@ -160,5 +160,3 @@ class Board:
         while self.running:
             self.fill_board(choosen_numbers)
 
-game = Board()
-game.game()
